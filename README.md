@@ -30,4 +30,4 @@ I'm a passionate software developer with a keen interest in web development, dat
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anmolgupta/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/itsanmolgupta/)
