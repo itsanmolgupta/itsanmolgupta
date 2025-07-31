@@ -10,7 +10,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 - 🌱 I’m currently learning more about machine learning and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to JavaScript, Python, or web development.
-- 📫 How to reach me: [Email](mailto:itsanmolgupta@gmail.com) | [LinkedIn](https://www.linkedin.com/in/itsanmolgupta/)
+- 📫 How to reach me: [Email](mailto:itsguptaanmol@gmail.com) | [LinkedIn](https://www.linkedin.com/in/itsanmolgupta/)
 - ⚡ Fun fact: I love to play chess and read science fiction novels.
 
 ## 🛠️ Technologies & Tools
