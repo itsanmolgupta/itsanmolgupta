@@ -11,7 +11,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to JavaScript, Python, or web development.
 - 📫 How to reach me: [Email](mailto:itsguptaanmol@gmail.com) | [LinkedIn](https://www.linkedin.com/in/itsanmolgupta/)
-- 
+
 ## 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
